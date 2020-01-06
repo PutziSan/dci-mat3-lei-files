@@ -5,7 +5,7 @@ It is very well suited for web development (development of html, css and js file
 
 ## install/setup VS Code
 
-1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac)
+1. install from the official website ([windows](https://code.visualstudio.com/docs/setup/windows) / [mac](https://code.visualstudio.com/docs/setup/mac))
 1. add extension "prettier" (auto-format your files): extension symbol (left) > search "prettier" > install "Prettier - Code formatter"
 1. add extension "Live Server" (reload browser on save): extension symbol (left) > search "Live Server" > install "Live Server"
 
