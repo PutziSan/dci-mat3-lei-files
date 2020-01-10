@@ -1,0 +1,38 @@
+body {
+  margin: 0;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: hsl(0, 0%, 90%);
+  padding: 1rem;
+}
+
+.flex {
+  width: 100%;
+}
+
+.col {
+  height: 15rem;
+  flex: 1;
+  background-color: hsl(0, 0%, 98%);
+  box-shadow: 0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06);
+}
+
+.middle {
+  margin: 2rem 0;
+}
+
+@media (min-width: 600px) {
+  .flex {
+    display: flex;
+    width: 640px;
+    flex-direction: row;
+  }
+  .middle {
+    margin: 0 2rem;
+  }
+}
