@@ -1,0 +1,87 @@
+Getting Started with the WEB
+-   https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web
+-   https://developer.mozilla.org/de/docs/Learn/Getting_started_with_the_web (deutsch)
+
+Learning HTML, CSS & Javascript
+-   w3schools.com
+-   learn.shayhowe.com
+-   wiki.selfhtml.org/wiki (german)
+-   codeguide.co/#html-style-script (Standards, Best Practice)
+-   http://codingheroes.io/resources/ (lots of links to helpful HTML, CSS and JS resources)
+
+Emmet Overview
+-   https://docs.emmet.io/cheat-sheet/
+
+Web Development Tutorials on Traversy Media Channel
+-   youtube.com/channel/UC29ju8bIPH5as8OGnQzwJyA
+-   youtu.be/UB1O30fR-EE (HTML  Crash Course)
+-   youtu.be/yfoY53QXEnI (CSS Crash Course)
+-   youtu.be/hdI2bqOjy3c (Javascript Crash Course)
+
+Web Development Learning Ressources
+-   codecademy.com
+-   codeavengers.com
+-   theodinproject.com
+-   eu.udacity.com
+-   udemy.com (auch deutsch)
+-   pluralsight.com/codeschool
+-   de.linkedin.com/learning (deutsch, kostenloser Probemonat)
+-   developer.mozilla.org/de/docs/Learn (deutsch)
+
+Good Javascript Introduction
+-   udacity.com/course/intro-to-javascript--ud803
+-   jgthms.com/javascript-in-14-minutes/
+
+A basic, minimum HTML5 Template
+-    html5bones.com
+
+How To... Tutorials
+-    w3schools.com/howto
+
+CSS Selectors
+-    w3schools.com/cssref/trysel.asp
+
+CSS Problems/Solutions
+-   css-tricks.com
+
+Check your HTML/CSS Code for Errors
+-   validator.w3.org (for HTML)
+-   jigsaw.w3.org/css-validator/validator.html.en (for CSS)
+
+
+###CSS FLEXBOX###
+A guide to the CSS Flexbox concept
+-    css-tricks.com/snippets/css/a-guide-to-flexbox
+
+CSS Flexbox Video Tutorials (by Wes Bos)
+-    flexbox.io
+-    youtu.be/Vj7NZ6FiQvo
+
+Flexbox Playground
+-    the-echoplex.net/flexyboxes
+#################
+
+
+###CSS GRID######
+A guide to the CSS Grid concept
+-    css-tricks.com/snippets/css/complete-guide-grid
+-    gridbyexample.com
+
+A CSS Grid Layout Crash Course
+-    youtu.be/jV8B24rSN5o
+
+CSS Grid Video Tutorials (by Wes Bos)
+-    cssgrid.io/
+-    youtu.be/T-slCsOrLcc
+#################
+
+
+Bootstrap, a very popular CSS Framework to create responsive websites
+-    getbootstrap.com
+
+Git & GitHub Crash Course
+-   youtu.be/SWYqp7iY_Tc
+
+Books
+-   www.oreilly.com
+-   www.rheinwerk-verlag.de (german)
